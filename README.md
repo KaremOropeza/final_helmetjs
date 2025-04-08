@@ -5,7 +5,7 @@
 **Carrera: Ingenieria en Sistemas Computacionales /**
 **No. Control: 211150068 /**
 **Semestre: 8 /**
-
+Este curso de programación se centra en HelmetJS, un tipo de middleware para aplicaciones basadas en Express que configura automáticamente los encabezados HTTP. De esta forma, evita que información confidencial se transmita accidentalmente entre el servidor y el cliente.
 # Proposito:
 Implementación de buenas prácticas de seguridad web en aplicaciones Node.js mediante el uso del middleware Helmet, una herramienta diseñada para configurar de manera sencilla y efectiva cabeceras HTTP seguras en servidores Express. 
 # Utilidad:
